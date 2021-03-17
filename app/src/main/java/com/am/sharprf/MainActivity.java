@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     SharedPreferences  sharedPreferences;
     SharedPreferences.Editor editor;
     TextView textView;
-   
+   /// this is from studio
    /// this data from web
     @Override
     protected void onCreate(Bundle savedInstanceState) {
